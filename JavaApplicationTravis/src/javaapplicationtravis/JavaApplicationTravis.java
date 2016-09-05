@@ -16,7 +16,11 @@ public class JavaApplicationTravis {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-      jjj
+      
     }
+    public void L()
+      {
+          
+      }
 }
 
