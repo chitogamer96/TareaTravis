@@ -18,8 +18,5 @@ public class JavaApplicationTravis {
         // TODO code application logic here
       
     }
-  public static void Metodo1()
-        {
-        }
 }
 
